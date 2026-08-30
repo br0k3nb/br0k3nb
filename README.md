@@ -14,7 +14,6 @@ philosophy: "A diverse and promising skill-set"
 
 - 🔭 I'm currently working on **Spotify Remote for Amazfit Bip 6**
 - 🌱 I'm currently learning **AWS, Go and Next.js**
-- 📫 Reach me at my [portfolio](https://rodrigo-oliveira.vercel.app/)
 
 ---
 
