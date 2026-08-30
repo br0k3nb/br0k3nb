@@ -1,21 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:bf616a&height=220&section=header&text=Rodrigo%20Oliveira&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%9A%A1&descSize=22&descAlignY=68" width="100%" alt="header" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js;Let's+build+something+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=br0k3nb&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://rodrigo-oliveira.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-rodrigo--oliveira-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/br0k3nb?tab=followers">
-    <img src="https://img.shields.io/github/followers/br0k3nb?color=7c3aed&style=flat-square&logo=github" alt="Followers" />
-  </a>
-</div>
-
 ---
 
 ## 👨🏻‍💻 About me
