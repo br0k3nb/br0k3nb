@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:bf616a&height=220&section=header&text=Rodrigo%20Oliveira&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%9A%A1&descSize=22&descAlignY=68" width="100%" alt="header" />
+<h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
 ---
 
@@ -83,5 +83,3 @@ philosophy: "A diverse and promising skill-set"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/br0k3nb/br0k3nb/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/br0k3nb/br0k3nb/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf616a,50:7c3aed,100:1a1b27&height=140&section=footer" width="100%" alt="footer" />
