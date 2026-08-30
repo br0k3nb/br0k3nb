@@ -9,10 +9,6 @@
 "languages": ["TypeScript", "Dart", "Rust", "Java"],
 "philosophy": "Man is condemned to be free"
 ```
-
-- 🔭 I'm currently working on **Spotify Remote for Amazfit Bip 6**
-- 🌱 I'm currently learning **AWS, Go and Next.js**
-
 ---
 
 ## 🛠️ Tech Stack
