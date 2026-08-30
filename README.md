@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 <div>
-  <a href='https://github.com/br0k3nb'>
-  <img height='185em'src='https://github-readme-stats.vercel.app/api?username=br0k3nb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
-  <img height='185em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=br0k3nb&langs_count=8&show_icons=true&theme=tokyonight&layout=compact'/>
+  <a href="https://github.com/br0k3nb">
+    <img height="185" src="https://streak-stats.demolab.com?user=br0k3nb&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+  <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=br0k3nb&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 
 
