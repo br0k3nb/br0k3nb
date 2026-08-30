@@ -17,8 +17,8 @@ philosophy: "Man is condemned to be free"
 
 ## 🛠️ Tech Stack
 
-**Languages & Core** <img src="assets/spacer.svg" width="20" height="30" align="top" alt="" /><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,rust,java,dart&theme=dark" alt="languages" />
+**Languages** <img src="assets/spacer.svg" width="20" height="30" align="top" alt="" /><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,rust,java,dart&theme=dark" alt="languages" />
 
 **Frontend & Mobile** <img src="assets/spacer.svg" width="20" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=react,angular,flutter&theme=dark" alt="frontend" />
