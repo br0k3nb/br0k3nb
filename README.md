@@ -9,7 +9,7 @@ name: Rodrigo Oliveira
 alias: br0k3nb
 role: Full Stack Web Developer
 languages: [JavaScript, TypeScript, Java, Dart]
-philosophy: "A diverse and promising skill-set"
+philosophy: "Man is condemned to be free"
 ```
 
 - 🔭 I'm currently working on **Spotify Remote for Amazfit Bip 6**
