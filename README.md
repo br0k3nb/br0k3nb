@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Rodrigo 👋</h1>
 
----
-
 ## 👨🏻‍💻 About me
 
 ```yaml
 name: Rodrigo Oliveira
 alias: br0k3nb
-role: Full Stack Web Developer
-languages: [JavaScript, TypeScript, Java, Dart]
+role: Software Developer
+languages: [JavaScript, TypeScript, Rust]
 philosophy: "Man is condemned to be free"
 ```
 
@@ -19,25 +17,21 @@ philosophy: "Man is condemned to be free"
 
 ## 🛠️ Tech Stack
 
-**Languages & Core** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
+**Languages & Core** <img src="assets/spacer.svg" width="30" height="50" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,rust,java,dart&theme=dark" alt="languages" />
 
-**Frontend & Mobile** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
+**Frontend & Mobile** <img src="assets/spacer.svg" width="30" height="50" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=react,angular,flutter&theme=dark" alt="frontend" />
 
-**Backend, Data & Tools** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
+**Backend, Data & Tools** <img src="assets/spacer.svg" width="30" height="50" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,gcloud&theme=dark" alt="tools" />
 
-**Currently studying 🤓** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
+**Currently studying 🤓** <img src="assets/spacer.svg" width="30" height="50" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=aws,golang,nextjs&theme=dark" alt="studying" />
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=br0k3nb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=br0k3nb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
