@@ -19,33 +19,17 @@ philosophy: "A diverse and promising skill-set"
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,rust,java,dart&theme=dark" alt="languages" />
-  </a>
-</div>
+**Languages & Core**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,rust,java,dart&theme=dark" alt="languages" />
 
-### Frontend & Mobile
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter&theme=dark" alt="frontend" />
-  </a>
-</div>
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,flutter&theme=dark" alt="frontend" />
 
-### Backend, Data & Tools
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,gcloud&theme=dark" alt="tools" />
-  </a>
-</div>
+**Backend, Data & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,gcloud&theme=dark" alt="tools" />
 
-### Currently studying 🤓
-<div align="left">
-  <img align="center" alt="aws" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="nextjs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</div>
+**Currently studying 🤓**<br/>
+<img src="https://skillicons.dev/icons?i=aws,golang,nextjs&theme=dark" alt="studying" />
 
 ---
 
