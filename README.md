@@ -38,17 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/br0k3nb/noap">
-    <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=br0k3nb&repo=noap&theme=tokyonight&hide_border=true" alt="Noap" />
-  </a>
-  <a href="https://github.com/br0k3nb/amazfit-bip6-spotify-remote">
-    <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=br0k3nb&repo=amazfit-bip6-spotify-remote&theme=tokyonight&hide_border=true" alt="amazfit-bip6-spotify-remote" />
-  </a>
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/br0k3nb/br0k3nb/output/github-contribution-grid-snake-dark.svg" />
