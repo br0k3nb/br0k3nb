@@ -3,11 +3,11 @@
 ## 👨🏻‍💻 About me
 
 ```yaml
-name: Rodrigo Oliveira
-alias: br0k3nb
-role: Software Developer
-languages: [JavaScript, TypeScript, Rust]
-philosophy: "Man is condemned to be free"
+"name": "Rodrigo Oliveira",
+"alias": "br0k3nb",
+"role": "Software Developer",
+"languages": ["TypeScript", "Dart", "Rust", "Java"],
+"philosophy": "Man is condemned to be free"
 ```
 
 - 🔭 I'm currently working on **Spotify Remote for Amazfit Bip 6**
