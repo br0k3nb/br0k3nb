@@ -19,16 +19,16 @@ philosophy: "Man is condemned to be free"
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**<br/>
+**Languages & Core** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,rust,java,dart&theme=dark" alt="languages" />
 
-**Frontend & Mobile**<br/>
+**Frontend & Mobile** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=react,angular,flutter&theme=dark" alt="frontend" />
 
-**Backend, Data & Tools**<br/>
+**Backend, Data & Tools** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,gcloud&theme=dark" alt="tools" />
 
-**Currently studying 🤓**<br/>
+**Currently studying 🤓** <img src="assets/spacer.svg" width="1" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=aws,golang,nextjs&theme=dark" alt="studying" />
 
 ---
