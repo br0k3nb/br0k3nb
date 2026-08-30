@@ -7,8 +7,7 @@
   "name": "Rodrigo Oliveira",
   "alias": "br0k3nb",
   "role": "Software Developer",
-  "languages": ["TypeScript", "Dart", "Rust", "Java"],
-  "philosophy": "Man is condemned to be free"
+  "languages": ["TypeScript", "Dart", "Rust", "Java"]
 }
 ```
 ---
