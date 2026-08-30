@@ -53,10 +53,10 @@ philosophy: "A diverse and promising skill-set"
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=br0k3nb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=br0k3nb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=br0k3nb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=br0k3nb&langs_count=8&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
