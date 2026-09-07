@@ -23,9 +23,6 @@
 **Backend, Data & Tools** <img src="assets/spacer.svg" width="20" height="30" align="top" alt="" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,gcloud&theme=dark" alt="tools" />
 
-**Currently studying 🤓** <img src="assets/spacer.svg" width="20" height="30" align="top" alt="" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,golang,nextjs&theme=dark" alt="studying" />
-
 ---
 
 ## 📊 GitHub Stats
